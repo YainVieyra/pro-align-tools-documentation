@@ -6,7 +6,6 @@ Optionally, you can call the **Create Orientation** operator from the operators 
 
 .. figure:: /images/2.8/orientation_dropdown.jpg
    :align: center
-   :width: 40%
    
    The Transform Orientations dropdown menu in the 3D view.
 
