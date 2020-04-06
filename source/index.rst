@@ -5,6 +5,8 @@ Welcome to Pro Align Tools Documentation!
    :align: left
    :width: 88%
 
+**This manual is for the addon in the 2.79 version of Blender. Looking for the latest manual? Go** `here <https://pro-align-tools-documentation.readthedocs.io/en/latest/>`__!
+
 
 .. toctree::
    :maxdepth: 1
