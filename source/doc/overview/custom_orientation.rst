@@ -4,7 +4,7 @@ Adding a Custom Orientation
 To manually add a **Custom orientation** to use with **Pro Align Tools**, you can select the elements from where you want to take an orientation, both in Object or Edit modes and then click the **Transform Orientations** dropdown menu found in the 3D view, from where you can create a new **Custom orientation** by clicking the **+** icon.
 Optionally, you can call the **Create Orientation** operator from the operators Search menu with the shortcut **F3**.
 
-.. figure:: /images/2.8/direction_orientations.jpg
+.. figure:: /images/2.8/orientation_dropdown.jpg
    :align: center
    :width: 40%
    
